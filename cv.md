@@ -48,3 +48,8 @@ function printResult() {
 Learning experience:
 * [BinaryCalculator](https://github.com/duxa2089/TodoList)
 * [TodoList](https://github.com/duxa2089/BinaryCalculator)
+
+## Education
+Russian Technological University (RTU MIREA) Software engineer.
+## English Level
+B1 (Intermediate English).
